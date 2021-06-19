@@ -6,6 +6,10 @@
 - ✉️  Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
 - 📃 Curious about my experience and education? [resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 
+
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp)](https://github.com/yusufalp/github-readme-stats)
+
+
 <!--
 **yusufalp/yusufalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
