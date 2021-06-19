@@ -2,8 +2,8 @@
 
 ## I'm Yusuf Alp, an educator turned software engineer 📖 💻
 
-- 💻 You can visit [my website](https://yusufalp.github.io/onepage) 
-- ✉️ Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
+- 💻  You can visit [my website](https://yusufalp.github.io/onepage) 
+- ✉️  Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
 
 <!--
 **yusufalp/yusufalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
