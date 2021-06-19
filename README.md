@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/yusuf-alp/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://twitter.com/yalp122"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="40" height="40"/></a>
 
+[![GitHub yusufalp](https://img.shields.io/github/followers/yusufalp?label=follow&style=social)](https://github.com/yusufalp)
+
 ### Toolkit
 
 <span width="48"><img class="tech-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
