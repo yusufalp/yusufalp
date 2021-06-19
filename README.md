@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Hi there ![Waving](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
 ## I'm Yusuf Alp, an educator turned software engineer 🖊️ 📖 👉 💻 ☕
 
