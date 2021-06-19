@@ -11,6 +11,7 @@
 <a href="https://twitter.com/yalp122"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="40" height="40"/></a>
 
 [![GitHub yusufalp](https://img.shields.io/github/followers/yusufalp?label=follow&style=social)](https://github.com/yusufalp)
+![](https://visitor-badge.glitch.me/badge?page_id=yusufalp)
 
 ### Toolkit
 
