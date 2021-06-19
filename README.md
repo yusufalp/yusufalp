@@ -4,7 +4,7 @@
 
 - 💻  You can visit [my website](https://yusufalp.github.io/onepage) 
 - ✉️  Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
-- 📃 Curious about my experience and education? [resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
+- 📃 Curious about my experience and education? Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/yusuf-alp/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
