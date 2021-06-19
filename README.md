@@ -7,6 +7,8 @@
 - 📃 Curious about my experience and education? [resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 
 ### Connect with me
+<a href="https://www.linkedin.com/in/yusuf-alp/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://twitter.com/yalp122"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="40" height="40"/></a>
 
 ### Toolkit
 
