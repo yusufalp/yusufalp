@@ -7,34 +7,30 @@
 - 📃 Curious about my experience and education? Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/yusuf-alp/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://twitter.com/yalp122"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" width="40" height="40"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-alp/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yalp122)
 
 [![GitHub yusufalp](https://img.shields.io/github/followers/yusufalp?label=follow&style=social)](https://github.com/yusufalp)
 ![](https://visitor-badge.glitch.me/badge?page_id=yusufalp)
 
 ### Toolkit
 
-<span width="48"><img class="tech-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-alt="Javascript logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://iconape.com/wp-content/files/fh/110909/svg/typescript.svg"
-alt="Typescript logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="Python logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" alt="React logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://i.ibb.co/7yzWgHF/node-logo-transparent.png" alt="Node logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://i.ibb.co/DtRRHVj/logo-express-js-transparent.png" alt="Express logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://i.ibb.co/mC3tFWY/postgres.png" alt="Postgres logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://i.ibb.co/KD4WswP/html5-removebg-preview.png" alt="HTML5 logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
-alt="CSS3 logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://www.logolynx.com/images/logolynx/2a/2ab4daf7454eef5b0f564a00ed616a7d.png"
-alt="jquery logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"></span>
-<span width="48"><img class="tech-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github logo" width="40" height="40"></span>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.JS](https://img.shields.io/badge/Express.JS-3C873A?style=for-the-badge&logo=express&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp)](https://github.com/yusufalp/github-readme-stats)
+![Git](https://img.shields.io/badge/git-F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-98435b.svg?&style=for-the-badge&logo=jest&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp)
 
 <!--
 **yusufalp/yusufalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
