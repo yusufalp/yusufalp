@@ -18,17 +18,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.JS-3C873A?style=for-the-badge&logo=express&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-98435b.svg?&style=for-the-badge&logo=jest&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp)
 
