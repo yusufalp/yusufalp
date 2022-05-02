@@ -38,6 +38,8 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&count_private=true)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&count_private=true&show_icons=true)
+
+![Yusuf's Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusufalp)](https://github.com/yusufalp/github-profile-trophy)
