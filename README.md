@@ -40,6 +40,6 @@
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&count_private=true&show_icons=true)
 
-![Yusuf's Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
+![Yusuf's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusufalp)](https://github.com/yusufalp/github-profile-trophy)
+![Yusuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufalp&custom_title=Yusuf&apos;s%20%Top%20%Languages)
