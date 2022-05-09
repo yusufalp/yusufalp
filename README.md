@@ -38,7 +38,7 @@
 ![Jest](https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&count_private=true&show_icons=true)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true)
 
 ![Yusuf's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
 
