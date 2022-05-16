@@ -1,6 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"> I'm Yusuf
 
-## I'm Yusuf Alp, an educator turned software engineer 🖊️ 📖 👉 💻 ☕
+## An educator turned software engineer 🖊️ 📖 👉 💻 ☕
 
 - 💻  You can see [my portfolio](https://yusufalp.github.io/onepage) 
 - ✉️  Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
@@ -9,20 +9,20 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-alp/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yalp122)
+[![Twitter](https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yalp122)
 
 ![followers](https://img.shields.io/github/followers/yusufalp)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufalp)
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)	
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
