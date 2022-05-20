@@ -2,10 +2,10 @@
 
 ## An educator turned software engineer 🖊️ 📖 👉 💻 ☕
 
-- 💻  You can see [my portfolio](https://yusufalp.github.io/onepage) 
-- ✉️  Best way to reach me is via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
-- 📃 Curious about my experience and education? Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
-- 🧠  I'm currently learning AWS
+- 💻 You can see [my portfolio](https://yusufalp.github.io/onepage) 
+- ✉️ Reach me via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
+- 📃 Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
+- 🧠 I'm currently learning AWS
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-alp/) 
