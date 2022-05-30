@@ -1,6 +1,6 @@
 ## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"> I'm Yusuf
 
-## An educator turned software engineer 🖊️ 📖 👉 💻 ☕
+## An educator turned software engineer 👨‍🏫 🖊️  👉 💻 ☕
 
 - 💻 You can see [my portfolio](https://yusufalp.github.io/onepage) 
 - ✉️ Reach me via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
