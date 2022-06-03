@@ -1,4 +1,4 @@
-## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px"> I'm Yusuf
+## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32"> I'm Yusuf
 
 ## An educator turned software engineer 👨‍🏫 🖊️  👉 💻 ☕
 
