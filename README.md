@@ -7,13 +7,12 @@
 - 📃 Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 - 🧠 I'm currently learning AWS
 
+[![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yusuf.alp) 
+
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-alp/) 
 [![Twitter](https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yalp122)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yusufalp)
-
-![followers](https://img.shields.io/github/followers/yusufalp)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufalp)
 
 ### Skills
 
@@ -50,3 +49,7 @@
 ![Yusuf's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
 
 ![Yusuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufalp&custom_title=Yusuf&apos;s%20%Top%20%Languages)
+
+![](https://visitcount.itsvg.in/api?id=yusufalp&label=Visitors&color=12&icon=5&pretty=true)
+
+Visitors count built [by VisitCount](https://visitcount.itsvg.in)
