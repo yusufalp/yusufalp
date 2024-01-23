@@ -2,7 +2,8 @@
 
 ## An educator turned software engineer 👨‍🏫 ☕  👉 💻 ☕
 
-- 💻 You can see [my portfolio](https://yusufalp.github.io/onepage) 
+- 💻 You can see [my portfolio](https://yusufalp.github.io/onepage)
+- 📖 Check out what I wrote about in [Dev.to](https://dev.to/yusufalp) 
 - ✉️ Reach me via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
 - 📃 Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 - 🧠 I'm currently learning AWS
