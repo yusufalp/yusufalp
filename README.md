@@ -2,11 +2,14 @@
 
 ## An educator turned software engineer 👨‍🏫 ☕  👉 💻 ☕
 
+- 🧠 I'm currently learning AWS
+- 🎓 I'm teaching the next group of software egineers at CodeSquad
 - 💻 You can see [my portfolio](https://yusufalp.github.io/onepage)
-- 📖 Check out what I wrote about in [Dev.to](https://dev.to/yusufalp) 
+- 📖 Check out what I wrote about in [Dev.to](https://dev.to/yusufalp)
+- 💬 Ask me about my transition to Software Engineering from Education
 - ✉️ Reach me via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
 - 📃 Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
-- 🧠 I'm currently learning AWS
+
 
 [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yusuf.alp) 
 
