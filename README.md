@@ -3,12 +3,12 @@
 ## An educator turned software engineer 👨‍🏫 ☕  👉 💻 ☕
 
 - 🧠 I'm currently learning AWS
-- 🎓 I'm teaching the next group of software egineers at CodeSquad
-- 💻 You can see [my portfolio](https://yusufalp.github.io/onepage)
-- 📖 Check out what I wrote about in [Dev.to](https://dev.to/yusufalp)
-- 💬 Ask me about my transition to Software Engineering from Education
-- ✉️ Reach me via email at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
-- 📃 Check [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
+- 🎓 I'm teaching the next group of software engineers at CodeSquad
+- 🍎 Ask me how I landed my first software engineering role after teaching high school for 10 years
+- 💻 View [my portfolio](https://yusufalp.github.io/onepage)
+- 📖 Read my [blog](https://dev.to/yusufalp)
+- ✉️ Email me at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
+- 📃 Check out [my resume](https://yusufalp.github.io/onepage/public/Resume_Yusuf_Alp.pdf)
 
 
 [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yusuf.alp) 
