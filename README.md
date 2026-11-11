@@ -48,12 +48,16 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufalp&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true)
+-->
 
 ![Yusuf's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=yusufalp)
 
+<!--
 ![Yusuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufalp&custom_title=Yusuf&apos;s%20%Top%20%Languages)
 
 ![](https://visitcount.itsvg.in/api?id=yusufalp&label=Visitors&color=12&icon=5&pretty=true)
 
 Visitors count built [by VisitCount](https://visitcount.itsvg.in)
+-->
