@@ -2,9 +2,8 @@
 
 ## An educator turned software engineer 👨‍🏫 ☕  👉 💻 ☕
 
-- 🧠 I'm currently learning AWS
-- 🎓 I'm teaching the next group of software engineers at CodeSquad
-- 🍎 Ask me how I landed my first software engineering role after teaching high school for 10 years
+- 🧠 I'm currently pursuing my CS master's at Georgia Tech
+- 🍎 Ask me how I landed my first software engineering role after teaching high school for over a decade
 - 💻 View [my portfolio](https://yusufalp.github.io/onepage)
 - 📖 Read my [blog](https://dev.to/yusufalp)
 - ✉️ Email me at [alpyusuf007@gmail.com](alpyusuf007@gmail.com)
@@ -15,7 +14,6 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-alp/) 
-[![Twitter](https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yalp122)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yusufalp)
 
 ### Skills
